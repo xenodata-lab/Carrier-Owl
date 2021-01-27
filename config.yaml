@@ -1,11 +1,12 @@
 # arxivの学問領域の指定
-subject: 'cat:cs.*'
+subject: 'cat:q-fin.* OR cat:cs.* OR cat:stat:* OR cat:econ.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        deep learning: 3
+        natural language: 3
+        machine learning: 1
+        neural network: 1
 
 # 通知の閾値
 score_threshold: 0
