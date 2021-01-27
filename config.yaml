@@ -7,6 +7,7 @@ keywords:
         natural language: 3
         machine learning: 1
         neural network: 1
+        linear regression: 1
 
 # 通知の閾値
 score_threshold: 0
